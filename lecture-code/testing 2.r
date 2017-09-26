@@ -1,0 +1,1 @@
+sprintf("second %2$10f, first %1$5.2f, third %3$1.0f", pi, 2, 3)
